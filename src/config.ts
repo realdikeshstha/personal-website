@@ -1,8 +1,8 @@
 export const siteConfig = {
   name: "Dikesh Shrestha",
-  title: "AI Research Assistant",
+  title: "Research Assistant at The University of Southern Mississippi",
   description: "Portfolio website of Dikesh Shrestha",
-  accentColor: "#1d4ed8",
+  accentColor: "#FFC72C",
   social: {
     email: "dikesh.shrestha.010@gmail.com",
     linkedin: "https://linkedin.com/in/dikeshshrestha",
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/realdikeshstha",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "Mathematics and Computer Science student at the University of Southern Mississippi. Teaching Fellow Alum at Breakthrough Cincinnati. Research Assistant under Dr. Sherif. Union Crew Member at the Southern Miss Union, and Team Leader for Hatchathon 2025.",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
