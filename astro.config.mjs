@@ -7,6 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://realdikeshstha.github.io',
-  base: '/personal-website/',
+  site: 'https://iamdikesh.me',
+  // base: '/personal-website/',
 });
