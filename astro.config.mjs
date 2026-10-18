@@ -8,4 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://realdikeshstha.github.io',
+  base: '/personal-website/',
 });
